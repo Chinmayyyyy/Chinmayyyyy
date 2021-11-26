@@ -25,7 +25,7 @@
     <a href="https://www.arduino.cc/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/arduino.png"/> 
     </a> 
     <a href="https://ubuntu.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/> </a> 
-
-
+    <a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> </a>
+    <a href="https://azure.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/azure-1.png"/> </a>
 
 
