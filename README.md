@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 👩‍💻 I’m currently learning **ADVANCED JAVA.**
+- 👩‍💻 I’m currently learning **ANDROID DEVELOPMENT.**
 
 - 🎮 Fun fact **I Love Games.**
 
